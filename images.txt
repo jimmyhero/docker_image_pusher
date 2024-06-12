@@ -1,1 +1,1 @@
-sagemathinc/openwebui:2024-05-18
+postgres:alpine3.20
