@@ -1,1 +1,1 @@
-postgres:alpine3.20
+nvidia/cuda:12.5.0-devel-ubuntu22.04
