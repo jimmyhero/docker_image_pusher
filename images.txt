@@ -1,1 +1,1 @@
-domain-admin:latest
+mouday/domain-admin:latest
