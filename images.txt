@@ -1,1 +1,1 @@
-ollama/ollama
+domain-admin:latest
