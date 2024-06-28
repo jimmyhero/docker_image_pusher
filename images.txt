@@ -1,1 +1,1 @@
-adminer:4.8.1-standalone
+phpmyadmin:5.2.1
