@@ -1,1 +1,1 @@
-lobehub/lobe-chat:latest
+onerahmet/openai-whisper-asr-webservice:v1.4.1
