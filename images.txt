@@ -1,1 +1,1 @@
-ollama/ollama:0.2.1-rocm
+ollama/ollama:0.2.2-rc2
