@@ -1,1 +1,1 @@
-mouday/domain-admin:v1.6.40
+ollama/ollama:0.2.1-rocm
