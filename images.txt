@@ -1,1 +1,1 @@
-ollama/ollama:0.2.2-rc2
+snipe/snipe-it:v7.0.9
