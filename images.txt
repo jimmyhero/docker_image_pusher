@@ -1,1 +1,1 @@
-cloudron/com.openwebui.cloudronapp
+cloudron/com.openwebui.cloudronapp:20240714-081729-20652ae21
