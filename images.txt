@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:main
+onerahmet/openai-whisper-asr-webservice:v1.5.0-gpu
