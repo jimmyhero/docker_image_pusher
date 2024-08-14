@@ -1,1 +1,1 @@
-onerahmet/openai-whisper-asr-webservice:v1.5.0-gpu
+synesthesiam/opentts:zh-2.1
