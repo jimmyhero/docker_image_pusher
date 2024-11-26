@@ -1,1 +1,1 @@
-synesthesiam/opentts:zh-2.1
+ghcr.io/open-webui/open-webui:main
